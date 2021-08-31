@@ -4,4 +4,4 @@ The Desk is supposed to have  alift mechanisem, the big blocks are designed to b
 
 # Preview 
 
-![Desk Design](https://github.com/omid-s/furniture/blob/master/assets/computerDesk.png?raw=true)
+![Desk Design](https://github.com/omid-s/furniture/blob/main/assets/computerDesk.png)
