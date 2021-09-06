@@ -16,6 +16,8 @@ We did endup building one variation of the reverse cat table with help from @par
 ## Atlas 
 Atlas gets the idea from a world (top) being held by the bottom (legs). Comes in variations of shelves and drawers. Atlas coffee table follows a (Fibonacci Sequence)[https://en.wikipedia.org/wiki/Fibonacci_number] in sizes. 
 
-![Atlas 1](https://github.com/omid-s/furniture/blob/main/assets/atlas_cofeeTable2.png)
+![Atlas 1](https://github.com/omid-s/furniture/blob/main/assets/atlas_cofeeTable1.png)
+
 ![Atlas 2](https://github.com/omid-s/furniture/blob/main/assets/atlas_cofeeTable2.png)
-![Atlas 3](https://github.com/omid-s/furniture/blob/main/assets/atlas_cofeeTable2.png)
+
+![Atlas 3](https://github.com/omid-s/furniture/blob/main/assets/atlas_cofeeTable3.png)
